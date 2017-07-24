@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 24, 2017
 
 ### Student Name:  
-(First and Last Name)
+Aly Sanger-Hodgson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Furthering our JavaScript practice by incorporating a photo gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alysanger.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Alert boxes, new tabs, and locking a browser to a size.
+2. Purpose behind DOM and how to use & what it does within your browser.
+3. DOM Object Methods, Properties, and other elements.
